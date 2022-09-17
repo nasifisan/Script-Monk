@@ -1,0 +1,13 @@
+body {
+    margin: 8px;
+}
+
+#dashboard {
+    max-width: 40px;
+    margin: 8px;
+    cursor: pointer;
+}
+
+#dashboard:hover {
+    background-color: gray;
+}
